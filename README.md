@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100040805280189) 
 
@@ -10,6 +9,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-biswajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=developer-biswajit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+Hi there! 👋 I'm Biswajit Sardar, a fresh WordPress developer eager to learn and contribute to the world of web development. I am passionate about building user-friendly and responsive websites using WordPress. I'm currently exploring various WordPress themes and plugins to expand my knowledge and skills in this field.
+
+## 📈 GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developer-biswajit&theme=github)
