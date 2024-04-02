@@ -1,26 +1,15 @@
-# Hi there! 👋 I'm Biswajit Sardar
 
-I'm a passionate WordPress developer from Kolkata, India. Welcome to my GitHub portfolio! 🌟
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100040805280189) 
 
-![Header](https://via.placeholder.com/800x200)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=developer-biswajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=developer-biswajit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-biswajit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
+---
+[![](https://visitcount.itsvg.in/api?id=developer-biswajit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 Currently working on enhancing my WordPress skills and diving deeper into frontend technologies.
-- 🌱 Always learning and exploring new tools and techniques in web development.
-- 💬 Ask me about WordPress, HTML, CSS, JavaScript, Elementor, PHP, MySQL, or anything related to web development!
-- 📫 How to reach me: 7980030996 / developer.biswajitsardar@gmail.com
-
-## Connect with Me
-
-Let's connect and collaborate! You can find me on:
-
-[LinkedIn](link/to/linkedin) | [Twitter](link/to/twitter) | [Personal Website](link/to/website)
-
-## Languages and Tools
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- MySQL
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
