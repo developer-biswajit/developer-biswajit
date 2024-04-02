@@ -1,47 +1,11 @@
-# Hi there! 👋 I'm Biswajit Sardar
+<h1 align="center">Hi 👋, I'm Biswajit Sardar</h1>
+<h3 align="center">A passionate Wordpress Developer from Kolkata India</h3>
 
-I'm a passionate WordPress developer with a love for crafting elegant websites. Welcome to my GitHub profile! 🌟
+- 📫 How to reach me **7980030996 / developer.biswajitsardar@gmail.com**
 
-![Header](https://via.placeholder.com/800x200)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## About Me
-
-🔭 **Currently:** Enhancing my WordPress skills and diving deeper into frontend technologies.
-
-🌱 **Exploring:** New tools and techniques in web development.
-
-💬 **Ask me about:** WordPress, HTML, CSS, JavaScript, Elementor, PHP, MySQL, or anything related to web development!
-
-📫 **How to reach me:** [Insert Your Contact Information Here]
-
-## My Projects
-
-### Project 1
-
-Short description of the project.
-
-![Project 1](https://via.placeholder.com/300)
-
-### Project 2
-
-Short description of the project.
-
-![Project 2](https://via.placeholder.com/300)
-
-### Project 3
-
-Short description of the project.
-
-![Project 3](https://via.placeholder.com/300)
-
-Feel free to explore my repositories for more projects and code samples!
-
-## Connect with Me
-
-Let's connect and collaborate! You can find me on:
-
-- [LinkedIn](link/to/linkedin)
-- [Twitter](link/to/twitter)
-- [Personal Website/Blog](link/to/website)
-
-Looking forward to connecting with fellow developers and enthusiasts. Happy coding! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
