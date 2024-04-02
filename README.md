@@ -6,21 +6,33 @@ I'm a passionate WordPress developer with a love for crafting elegant websites. 
 
 ## About Me
 
-- 🔭 I’m currently working on enhancing my WordPress skills and diving deeper into frontend technologies.
-- 🌱 I’m continuously learning and exploring new tools and techniques in web development.
-- 💬 Ask me about WordPress, HTML, CSS, JavaScript, Elementor, PHP, MySQL, or anything related to web development!
-- 📫 How to reach me: [Insert Your Contact Information Here]
+🔭 **Currently:** Enhancing my WordPress skills and diving deeper into frontend technologies.
+
+🌱 **Exploring:** New tools and techniques in web development.
+
+💬 **Ask me about:** WordPress, HTML, CSS, JavaScript, Elementor, PHP, MySQL, or anything related to web development!
+
+📫 **How to reach me:** [Insert Your Contact Information Here]
 
 ## My Projects
 
-Here are some of the projects I've been working on:
+### Project 1
 
-1. [Project 1](link/to/project1): Short description of the project.
-   ![Project 1](https://via.placeholder.com/300)
-2. [Project 2](link/to/project2): Short description of the project.
-   ![Project 2](https://via.placeholder.com/300)
-3. [Project 3](link/to/project3): Short description of the project.
-   ![Project 3](https://via.placeholder.com/300)
+Short description of the project.
+
+![Project 1](https://via.placeholder.com/300)
+
+### Project 2
+
+Short description of the project.
+
+![Project 2](https://via.placeholder.com/300)
+
+### Project 3
+
+Short description of the project.
+
+![Project 3](https://via.placeholder.com/300)
 
 Feel free to explore my repositories for more projects and code samples!
 
